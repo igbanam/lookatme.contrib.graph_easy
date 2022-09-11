@@ -16,3 +16,6 @@ docs/source/autodoc
 
 # dist
 build
+dist
+
+.DS_Store
